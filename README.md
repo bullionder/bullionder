@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hubert</h1>
+<h1 align="center">👋 Hi, I'm Hubert</h1>
 <h3 align="center">I'm Hubert, a self-taught Java Developer from Poland.</h3>
 Below you can find some of my projects that I created to improve my hard skills as a Java developer.
 
